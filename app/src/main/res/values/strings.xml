@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkIndia Tanishq Srivastava</string>
+    <string name="title_home">Home</string>
+
+    <!-- Product Page. -->
+    <string name="product_id">Product ID</string>
+    <string name="price">Price</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_circular_filled_shape"
+        android:title="List Page"/>
+
+    <item
+        android:id="@+id/navigation_gridpage"
+        android:icon="@drawable/ic_circular_filled_shape"
+        android:title="Grid Page"/>
+
+    <item
+        android:id="@+id/navigation_page3"
+        android:icon="@drawable/ic_circular_filled_shape"
+        android:title="Page3" />
+
+    <item
+        android:id="@+id/navigation_page4"
+        android:icon="@drawable/ic_circular_filled_shape"
+        android:title="Page4"/>
+
+    <item
+        android:id="@+id/navigation_page5"
+        android:icon="@drawable/ic_circular_filled_shape"
+        android:title="Page5"/>
+
+</menu>
